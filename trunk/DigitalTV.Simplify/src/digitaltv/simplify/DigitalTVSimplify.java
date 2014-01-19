@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author ebabayan1
+ * @author eduard
  */
 
 public class DigitalTVSimplify {
